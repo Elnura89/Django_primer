@@ -1,0 +1,2 @@
+классовый подход, способ написания логики в файле views.py
+python manage.py startapp some_app
